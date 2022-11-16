@@ -1,2 +1,2 @@
 # C-POINTER-CONCEPTS
-Pointer concepts complete.
+MASTERING POINTER CONCEPTS.
